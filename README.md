@@ -11,3 +11,5 @@ pip install tk  # for tkinter framework
 pip install opencv
 
 pip install face_recognition
+
+Demo Link: https://www.linkedin.com/feed/update/urn:li:activity:7237947672509206528/
