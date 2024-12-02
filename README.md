@@ -12,4 +12,6 @@ pip install opencv
 
 pip install face_recognition
 
+Documentation: https://app.readytensor.ai/publications/face_comparison_application_xqqseBeo4ywq
+
 Demo Link: https://www.linkedin.com/feed/update/urn:li:activity:7237947672509206528/
